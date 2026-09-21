@@ -1,0 +1,21 @@
+# Build artifacts
+*.exe
+*.out
+*.o
+*.obj
+*.pdb
+*.ilk
+
+# IDE and editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Temporary files
+*.tmp
+*.log
+**/build/
+**/bin/
+**/Debug/
+**/Release/
